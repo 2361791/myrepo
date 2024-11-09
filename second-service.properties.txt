@@ -1,0 +1,1 @@
+app.secondService.message=Default hello from second service

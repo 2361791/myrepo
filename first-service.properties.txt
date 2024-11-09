@@ -1,0 +1,1 @@
+app.firstService.message= Default Hello from First Service
