@@ -1,0 +1,1 @@
+app.firstService.message= Development Hello from First Service

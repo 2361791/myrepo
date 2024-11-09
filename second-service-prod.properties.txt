@@ -1,0 +1,1 @@
+app.secondService.message=Production hello from second service
